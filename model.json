@@ -1,0 +1,17 @@
+{
+  "id": "mai-image-2.6",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-17T23:56:51Z",
+  "prices": {},
+  "rates": {
+    "text_input": 4,
+    "cached_text_input": 0,
+    "image_input": 6.4,
+    "cached_image_input": 0,
+    "text_output": 0,
+    "image_output": 30.4
+  },
+  "unit": "usd_per_million_tokens",
+  "hook": "from $0.0311 per image on the APIMart route",
+  "model_page": "https://apimart.ai/model/mai-image-2-6"
+}
